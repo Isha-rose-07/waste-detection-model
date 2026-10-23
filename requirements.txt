@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+numpy
+# only for api.py (the web API):
+fastapi
+uvicorn
+python-multipart
